@@ -1,4 +1,3 @@
-[![Android Gems](http://www.android-gems.com/badge/saiwu-bigkoo/Android-AlertView.svg?branch=master)](http://www.android-gems.com/lib/saiwu-bigkoo/Android-AlertView)
 
 # SmartShow
 仿iOS弹窗
